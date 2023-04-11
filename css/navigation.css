@@ -1,0 +1,40 @@
+
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.nav__list {
+
+    padding-bottom: 15px;
+    border-bottom: 1px solid rgba(124, 17, 17, 0.329);
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.nav__unorderedList {
+    list-style: none;
+    padding-left: 0;
+}
+
+.nav__listItem {
+    margin: 10px 0;
+}
+
+.nav__link {
+    text-decoration: none;
+}
+
+.nav__link:hover {
+    color: rgba(124, 17, 17, 0.555);
+    border-bottom: 1px solid;
+    outline: none;
+}
+
+.nav__link:active {
+    color: brown;
+}

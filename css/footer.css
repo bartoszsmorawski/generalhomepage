@@ -1,0 +1,35 @@
+
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.footer__header {
+    color: rgba(124, 17, 17, 0.757);
+}
+
+
+.footer__paragraph--Contact {
+    font-weight: bold;
+    color: rgba(124, 17, 17, 0.483);
+}
+
+.footer__paragraph--Information {
+    font-weight: bolder;
+    font-size: large;
+    color: black;
+}
+
+.footer__paragraph {
+    font-weight: bolder;
+    color: rgba(124, 17, 17, 0.483);
+}
+
+.footer__link {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}

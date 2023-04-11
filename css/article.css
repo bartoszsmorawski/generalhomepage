@@ -1,0 +1,20 @@
+
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.article__specialTextn {
+    color: #4e9ae8;
+}
+
+.article__paragraph {
+    color: black;
+}
+
+.article__header {
+    color: rgba(5, 5, 5, 0.723);
+}

@@ -1,0 +1,42 @@
+
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.section__header {
+    color: rgba(124, 17, 17, 0.757);
+}
+
+.section__paragraph {
+    color: rgba(124, 17, 17, 0.757);
+}
+
+.section__specialText {
+    color: #4e9ae8;
+}
+
+.section__quote--center {
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 0 20px;
+}
+
+.section__quote {
+    font-size: 25px;
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 0 20px;
+    text-align: center;
+}
+
+.section__quoteContainer {
+    width: auto;
+    height: auto;
+    background-color: rgba(226, 113, 113, 0.04);
+    position: relative;
+    box-shadow: 1px 0px 19px 0px #C49D9D;
+}
