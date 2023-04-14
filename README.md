@@ -1,16 +1,16 @@
-# Moje portfolio - Bartosz Smorawski
+# My website - Bartosz Smorawski
 
 ![homepage](https://raw.githubusercontent.com/bartoszsmorawski/generalhomepage/main/images/screen%20strony%20g%C5%82%C3%B3wnej..png)
 
 ## Demo:
-Poniżej znajduje się link, który bezpośrednio przenosi do strony .
+Below is a link that takes you directly to the my website.
 https://bartoszsmorawski.github.io/generalhomepage/
 
 
-## Opis ogólny:
+##   General description:
 
 
-Strona jest w pełni poświęcona mojej osobie dla celów rekrutacyjnych. Tworzy swoiste **rozbudowane CV**. Strona została stworzona w taki sposób aby ukazać moje umiejętności w zakresie programowania **( wykorzystałem w niej wszelkie moje umiejętności i postarałem się ukazać jaką jestem osobą )**.
+The site is fully about me for recruitment purposes. Creates a kind of **extended CV**. The site was created in such a way as to show my programming skills **(I used all my skills and I tried to show what kind of person I am)**.
 
 
 ## Użyte technologie:
@@ -23,19 +23,19 @@ Strona jest w pełni poświęcona mojej osobie dla celów rekrutacyjnych. Tworzy
 - GIT
 
 
-## Foldery:
+## Folders:
 
-W plikach znajdują się takie foldery jak : **CSS, JS, IMAGES** oraz **index.html**.
+  The files include folders such as : **css, js, images** and **index.html**.
 
 ## CSS:
 
-Ten folder jest podzielony na **8 plików** : **article.css, footer.css, form.css, header.css, navigation.css, section.css, style.css, table.css**. Każdy z nich staluję poszczególne elementy na stronie. 
+This folder is divided into **8 files** : **article.css, footer.css, form.css, header.css, navigation.css, section.css, style.css, table.css**. Each of them steels individual elements on the page.
 
 ![CSS](https://raw.githubusercontent.com/bartoszsmorawski/generalhomepage/main/images/screen%20css.png)
 
 ## JavaScript:
 
-W tym folderze znajduję się plik **script.js** w którym zawarte są interakcje takie jak **przywitanie w konsoli dla deweloperów** oraz **zmiana tła na ciemniejsze po przez naciśnięcie na przycisk "włącz ciemny motyw" i "włącz jasny motyw"**. 
+Within this folder is a **script.js** file that contains interactions such as **welcome to developer console** and **change background to my page by pressing "enable dark theme" and "enable light theme" **.
 
 ![JSGIF](https://media.giphy.com/media/hfsjYrJtyfiLqwbBYr/giphy.gif)
 
@@ -44,34 +44,34 @@ W tym folderze znajduję się plik **script.js** w którym zawarte są interakcj
 
 ## HTML:
 
-Tytuł projektu : Bartosz Smorawski
+Project title : Bartosz Smorawski
 
-W tym pliku znajdują sie znaczniki i atrybuty które dzielą dokument na :
-`<body> <header> <section> <article> <footer>` oraz na `<form> <nav> <table>`.
+In this file there are tags and attributes that divide the document into:
+`<body> <header> <section> <article> <footer>` and on `<form> <nav> <table>`.
 
-- `<body>` - zawiera całą treść artykułu.
+- `<body>` - contains the entire content.
 
-- `<header>` -zawiera tytuł strony, zdjęcie oraz przycisk do zmiany koloru tła.
+- `<header>` - contains the page title, photo and a button to change the background color.
 
-- `<section>` - który dzieli artykuł na sekcje. W moim przypadku jest on ważniejszy niż `<article>`.
+- `<section>` - divides the article into sections. In my case, it's more important than `<article>`.
 
-- `<article>` - który dzieli sekcje na dwa mniejsze tematy.
+- `<article>` - divides the sections into two smaller topics.
 
-- `<footer>` - w nim znajduje się formularz kontaktowy `(<form>)`oraz dane kontaktowe  . 
+- `<footer>` - there is a contact form in the footer `(<form>)` and my contact details.
 
-- `<nav>`  -  dzięki niemu można przenieść się do konkretnej sekcji artykułu. 
+- `<nav>`  - this attribute takes you to a specific section of the page. 
 
-- `<form>` - zwykły formularz ułatwiający kontakt drogą mailową.
+- `<form>` - a simple form to facilitate contact by e-mail.
 
-- `<table>`  - tabela powoduje łatwe uporządkowanie treści.
+- `<table>`  - table makes it easy to organize the content.
 
 ![JS](https://raw.githubusercontent.com/bartoszsmorawski/generalhomepage/main/images/html%20screen.png)
 
-## Czcionka
+## Font
 
-Czciąka wykorzystana do projektu to **LATO**  pobrana z **Google Fonts**.
-**Link do czcionki**: https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;1,300;1,400&display=swap"
+The font used for the project is **"LATO"** downloaded from **Google Fonts**.
+**Link to the font**: https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;1,300;1,400&display=swap"
 
 ## README
 
-**Readme** będzie ewoluować wraz z projektem. Warto tutaj często zaglądać, aby być na bieżąco.
+**Readme** will evolve with the project. Be sure to check back here often to stay up to date.
