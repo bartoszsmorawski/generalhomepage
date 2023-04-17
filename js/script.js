@@ -1,8 +1,8 @@
-function welcome() {
+const welcome = () =>  {
     console.log("Witajcie rekrutatorzy zapraszam do sprawdzenia mojej strony 🙂");
 }
 
-let onChangeBackgroundClick =() => {
+const onChangeBackgroundClick =() => {
     body.classList.toggle("body--dark");
     nextColorName.innerText = body.classList.contains("body--dark") ? "jasny" : "ciemny"};
 
