@@ -13,7 +13,7 @@ https://bartoszsmorawski.github.io/generalhomepage/
 The site is fully about me for recruitment purposes. Creates a kind of **extended CV**. The site was created in such a way as to show my programming skills **(I used all my skills and I tried to show what kind of person I am)**.
 
 
-## Technologies used::
+## Technologies used:
 
 - HTML
 - JavaScript
