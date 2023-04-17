@@ -1,4 +1,9 @@
-console.log("Witajcie rekrutatorzy zapraszam do sprawdzenia mojej strony 🙂");
+function welcome() {
+    console.log("Witajcie rekrutatorzy zapraszam do sprawdzenia mojej strony 🙂");
+}
+
+welcome();
+
 
 let body = document.body;
 let changeBackgroundButton = document.querySelector(".js-changeBackgroundButton");
