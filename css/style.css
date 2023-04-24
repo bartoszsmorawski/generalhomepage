@@ -17,15 +17,15 @@ html {
 
 .body--dark {
     color: rgba(124, 17, 17, 0.757);
-    background: #99939321;
+    background:#99939321;
 }
 
 .js-changeBackgroundButton {
     display: inline-block;
     margin: 0 auto;
-    background-color: white;
+    background-color: #99939321;
     color: rgba(124, 17, 17, 0.329);
-    font-weight: normal;
+    font-weight:normal;
     padding: 15px;
     border-color: rgba(124, 17, 17, 0.329);
     font-family: "Lato", sans-serif;
@@ -33,3 +33,6 @@ html {
     font-weight: 1000;
 }
 
+button {
+    cursor: pointer;
+}

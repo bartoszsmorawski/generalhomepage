@@ -1,13 +1,4 @@
-
-html {
-    box-sizing: border-box;
-}
-
-*, ::after, ::before {
-    box-sizing: inherit;
-}
-
-.nav__list {
+.navigation__list {
 
     padding-bottom: 15px;
     border-bottom: 1px solid rgba(124, 17, 17, 0.329);
@@ -16,25 +7,25 @@ html {
     font-weight: bold;
 }
 
-.nav__unorderedList {
+.navigation__unorderedList {
     list-style: none;
     padding-left: 0;
 }
 
-.nav__listItem {
+.navigation__listItem {
     margin: 10px 0;
 }
 
-.nav__link {
+.navigation__link {
     text-decoration: none;
 }
 
-.nav__link:hover {
+.navigation__link:hover {
     color: rgba(124, 17, 17, 0.555);
     border-bottom: 1px solid;
     outline: none;
 }
 
-.nav__link:active {
+.navigation__link:active {
     color: brown;
 }
